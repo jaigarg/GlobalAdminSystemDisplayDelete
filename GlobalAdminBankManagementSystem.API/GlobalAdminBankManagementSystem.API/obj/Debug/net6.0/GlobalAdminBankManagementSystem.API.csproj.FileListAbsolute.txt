@@ -1,0 +1,124 @@
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\appsettings.Development.json
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\appsettings.json
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\GlobalAdminBankManagementSystem.API.exe
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\GlobalAdminBankManagementSystem.API.deps.json
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\GlobalAdminBankManagementSystem.API.runtimeconfig.json
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\GlobalAdminBankManagementSystem.API.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\GlobalAdminBankManagementSystem.API.pdb
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Humanizer.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.csproj.AssemblyReference.cache
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.AssemblyInfoInputs.cache
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.AssemblyInfo.cs
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\scopedcss\bundle\GlobalAdminBankManagementSystem.API.styles.css
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.csproj.CopyComplete
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\refint\GlobalAdminBankManagementSystem.API.dll
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.pdb
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.genruntimeconfig.cache
+C:\WF Project\GlobalAdminBankManagementSystem\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\ref\GlobalAdminBankManagementSystem.API.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\appsettings.Development.json
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\appsettings.json
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\GlobalAdminBankManagementSystem.API.exe
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\GlobalAdminBankManagementSystem.API.deps.json
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\GlobalAdminBankManagementSystem.API.runtimeconfig.json
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\GlobalAdminBankManagementSystem.API.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\GlobalAdminBankManagementSystem.API.pdb
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Humanizer.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.csproj.AssemblyReference.cache
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.AssemblyInfoInputs.cache
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.AssemblyInfo.cs
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.csproj.CoreCompileInputs.cache
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\scopedcss\bundle\GlobalAdminBankManagementSystem.API.styles.css
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.csproj.CopyComplete
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\refint\GlobalAdminBankManagementSystem.API.dll
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.pdb
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\GlobalAdminBankManagementSystem.API.genruntimeconfig.cache
+C:\GlobalSystemDelete\GlobalAdminBankManagementSystem.API\GlobalAdminBankManagementSystem.API\obj\Debug\net6.0\ref\GlobalAdminBankManagementSystem.API.dll

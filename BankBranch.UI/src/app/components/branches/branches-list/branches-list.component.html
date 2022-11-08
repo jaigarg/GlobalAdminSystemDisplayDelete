@@ -1,0 +1,24 @@
+<div class = "container my-5">
+    <h1 class = "mb-3">Branches</h1>
+    <table class="table table-bordered" *ngIf="branches && branches.length > 0">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let branch of branches">
+                <td>{{branch.id}}</td>
+                <td>{{branch.name}}</td>
+                <td>{{branch.address}}</td>
+                <!-- <td><a [routerLink]="['/branches', 'edit', branch.id]">View</a></td> -->
+                <td><a [routerLink]="['/branches', 'delete', branch.id]">Delete</a></td>
+                <!-- <td> <button class='btn btn-danger' (click)="deleteBranch(branchDetails.id)">Delete</button> </td> -->
+            </tr>
+        </tbody>
+    </table>
+    <p *ngIf="!branches || branches.length <= 0">No Branches Found</p>
+</div>

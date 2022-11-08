@@ -1,0 +1,23 @@
+<div class="container my-5">
+    <h1 class=""mb-3>Delete Branch</h1>
+        <!-- <form #form="ngForm" (ngSubmit)="updateBranch()"> -->
+          <form #form="ngForm">
+            <div class="mb-3">
+                <label for="" class="form-label">Id</label>
+                <input type="text" class="form-control" id="id" readonly
+                name="id" [(ngModel)]="branchDetails.id">
+            </div>
+            <div class="mb-3">
+              <label for="" class="form-label">Name</label>
+              <input type="text" class="form-control" id="name"
+              name="name" [(ngModel)]="branchDetails.name">
+            </div>
+            <div class="mb-3">
+              <label for="" class="form-label">Address</label>
+              <input type="text" class="form-control" id="address"
+              name="address" [(ngModel)]="branchDetails.address">
+            </div>
+            <!-- <button type="submit" class="btn btn-primary me-1">Save</button> -->
+            <button type="button" class="btn btn-danger" (click)="deleteBranch(branchDetails.id)">Confirm Delete</button>
+          </form>
+</div>
